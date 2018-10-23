@@ -19,11 +19,11 @@ The board would also have 2 connectors for 2 rgb ws281x ledstrips.
 
 # User Case 1: Windows
 
-Step 1: Connect the power USB Cable into a phone charger.
-Step 2: Connect the data USB cable into the PC
-Step 3: Connect the WS281x RGB Ledstrip
-Step 4: The user installs a program provided by the github page.
-Step 5: The user chooses the com port that my custom board is connected to.
-Step 6: The user chooses the sound output device.
+* Step 1: Connect the power USB Cable into a phone charger.
+* Step 2: Connect the data USB cable into the PC
+* Step 3: Connect the WS281x RGB Ledstrip
+* Step 4: The user installs a program provided by the github page.
+* Step 5: The user chooses the com port that my custom board is connected to.
+* Step 6: The user chooses the sound output device.
 
 # User Case 2: Mac (help is needed)
