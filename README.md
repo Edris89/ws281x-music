@@ -1,5 +1,5 @@
 # ws281x-music
-This Github page is for my upcoming ws281x custom music board for pc.
+This Github page is for my upcoming ws281x custom music visualizer board for pc.
 
 Components that are needed.
 
